@@ -533,7 +533,7 @@ input {
     bottom: -40px;
     left: 10px;
     font-size: 0.9rem;
-    width: 90%;
+    width: 120%;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
